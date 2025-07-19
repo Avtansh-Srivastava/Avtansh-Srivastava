@@ -94,7 +94,7 @@
 
 ## 🔄 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔨 Updated StudyBuddy UI
+1. 🔨 Updated StudyBuddy UI and learned node
 2. 🚀 Deployed SupportStar v1.2
 3. 🐛 Fixed CORS issue in StudyBuddy
 <!--RECENT_ACTIVITY:end-->
