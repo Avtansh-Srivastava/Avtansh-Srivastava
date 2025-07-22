@@ -81,7 +81,7 @@
 ### ⭐ [SupportStar - Customer Support Platform](https://github.com/Avtansh-Srivastava/SupportStar)
 > AI-enhanced customer support solution  
 🚀 **Features:**  
-- Automated ticket classification  
+- Automated ticket classifications  
 - AI-generated response suggestions  
 - Real-time analytics dashboard  
 - Multi-channel support integration  
