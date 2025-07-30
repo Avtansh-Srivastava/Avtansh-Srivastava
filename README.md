@@ -1,6 +1,6 @@
 # Hey, I'm Avtansh Srivastava 👨‍💻
 
-💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Building Intelligent Web Solutions
+💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Building Intelligent Web Solutionsss
 
 🌐 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avtansh-srivastava-2a2570199/)
