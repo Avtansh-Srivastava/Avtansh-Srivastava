@@ -11,7 +11,7 @@
 ---
 
 ## ⚡ Rapid Fire
-- [ ] **I'm currently working on:** [StudyBuddy](https://github.com/Avtansh-Srivastava/StudyBuddy) - AI companion for hassle-free studying 
+- [ ] **I'm currently working on:** [StudyBuddy](https://github.com/Avtansh-Srivastava/StudyBuddy) - AI companion for hasslse-free studying 
 - [x] **I'm currently exploring:** JAVA 
 - [ ] **Ask me about:** Web development best practices and AI implementation strategies  
 - [ ] **Fun fact:** I once debugged a production issue for 3 hours only to find a missing bracket 😅
