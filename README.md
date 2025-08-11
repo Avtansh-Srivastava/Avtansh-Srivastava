@@ -1,6 +1,6 @@
 # Hey, I'm Avtansh Srivastava 👨‍💻
 
-💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Building Intelligent Web Solution
+💻 Full Stack Developer | 🤖 AI Enthusiasts | 🚀 Building Intelligent Web Solution
 
 
 🌐 **Connect with me:**  
