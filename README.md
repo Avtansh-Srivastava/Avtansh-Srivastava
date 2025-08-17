@@ -1,4 +1,4 @@
-# Hey, I'm Avtansh Srivastava 👨‍💻hh
+# Hey, I'm Avtansh Srivastava 👨‍💻
 
 💻 Full Stack Developer | 🤖 AI Enthusiasts | 🚀 Building Intelligent Web Solution
 
